@@ -1,16 +1,38 @@
-# flutter_movie_web
+# 🎬 Flutter Movie Web App (Flutter + Firebase)
 
-A new Flutter project.
+A modern, responsive, and beautiful movie platform built with Flutter and powered by Firebase. It showcases curated selections of Amharic, English, and Korean movies for users around the world. 🌍
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔥 Trending, Top Rated, and New Release movies
+- 🌐 Multilingual categories: Amharic 🇪🇹, English 🇬🇧, Korean 🇰🇷
+- 🔍 Real-time search and filter
+- 📱 Responsive design (Mobile & Web support)
+- 📦 Firebase Firestore for real-time data
+- 🔐 Firebase Auth for user authentication
+- 🎥 Movie detail pages with trailer previews
+- 🌙 Dark mode toggle
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Frontend:Flutter (Web & Mobile)
+- Backend:Firebase (Firestore, Authentication, Hosting)
+- State Management: Provider
+- Storage: Firebase Storage for images/trailers
+
+
+## 📸 Screenshots
+
+> _Add screenshots here of the main dashboard, movie details, and different language sections._
+
+
+## 🚀 Getting Started
+
+1. Clone the repo**
+   ```bash
+   git clone https://github.com/afom12/movie-app-flutter.git
+   cd movie-app-flutter
+
+## 🌐 Live Demo
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://github.com/afom12/Flutter_Movie_Web)
