@@ -39,12 +39,4 @@ A modern, responsive, and beautiful movie platform built with Flutter and powere
 
 ___________________________________________________________________________________________________________________________
 
-
-
-
 https://github.com/user-attachments/assets/b2b0abbd-9742-4dfb-af1f-7a15076e7ecd
-
-
-
-https://github.com/user-attachments/assets/ea0d17d7-2613-4814-9a6f-fd4be116b92a
-
