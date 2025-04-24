@@ -23,7 +23,7 @@ A modern, responsive, and beautiful movie platform built with Flutter and powere
 
 ## 🚀 Getting Started
 
-1. Clone the repo**
+1. Clone the repo
    ```bash
    git clone https://github.com/afom12/movie-app-flutter.git
    cd movie-app-flutter
