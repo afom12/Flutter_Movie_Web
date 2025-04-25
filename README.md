@@ -4,6 +4,22 @@ A modern, responsive, and beautiful movie platform built with Flutter and powere
 
 ## ✨ Features
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 🔥 Trending, Top Rated, and New Release movies
 - 🌐 Multilingual categories: Amharic 🇪🇹, English 🇬🇧, Korean 🇰🇷
 - 🔍 Real-time search and filter
