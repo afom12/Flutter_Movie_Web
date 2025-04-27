@@ -11,7 +11,6 @@ A modern, responsive, and beautiful movie platform built with Flutter and powere
 - 📦 Firebase Firestore for real-time data
 - 🔐 Firebase Auth for users authentication
 - 🎥 Movie detail pages with trailer previews
-- 
 
 ## 🛠️ Tech Stack
 
