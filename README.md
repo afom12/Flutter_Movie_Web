@@ -13,7 +13,6 @@ A modern, responsive, and beautiful movie platform built with Flutter and powere
 - 🎥 Movie detail pages with trailer previews
 
 
-
 ## 🛠️ Tech Stack
 
 - Frontend:Flutter (Web & Mobile)
