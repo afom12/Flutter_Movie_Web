@@ -20,7 +20,6 @@ A modern, responsive, and beautiful movie platform built with Flutter and powere
 
 
 
-
 ## 🛠️ Tech Stack
 
 - Frontend:Flutter (Web & Mobile)
