@@ -20,7 +20,6 @@ A modern, responsive, and beautiful movie platform built with Flutter and powere
 - Storage: Firebase Storage for images/trailers
 
 
-
 ## 🚀 Getting Started
 
 1. Clone the repo
