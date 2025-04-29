@@ -21,7 +21,6 @@ A modern, responsive, and beautiful movie platform built with Flutter and powere
 
 
 
-
 ## 🚀 Getting Started
 
 1. Clone the repo
