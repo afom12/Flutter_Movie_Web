@@ -19,7 +19,6 @@ A modern, responsive, and beautiful movie platform built with Flutter and powere
 - State Management: Provider
 - Storage: Firebase Storage for images/trailers
 
-
 ## 🚀 Getting Started
 
 1. Clone the repo
