@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 # 🎬 Flutter Movie Web App (Flutter + Firebase)
 
 A modern, responsive, and beautiful movie platform built with Flutter and powered by Firebase. It showcases curated selections of Amharic, English, and Korean movies for users around the world. 🌍
