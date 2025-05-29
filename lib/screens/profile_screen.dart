@@ -1,4 +1,4 @@
-profile_screen
+profile_scre
 import 'package:flutter/material.dart';
 
 class ProfileScreen extends StatelessWidget {
